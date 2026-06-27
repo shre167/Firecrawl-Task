@@ -1,6 +1,6 @@
 from firecrawl import FirecrawlApp
 
-app = FirecrawlApp(api_key="fc-3e7202e1c82a4f20a08613b88f735f0f")
+app = FirecrawlApp(api_key="")
 
 result = app.scrape_url(
     "https://www.worldlabs.ai",
